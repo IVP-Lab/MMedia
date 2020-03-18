@@ -1,3 +1,4 @@
+jupyter
 opencv-contrib-python
 numpy
 scikit-image
