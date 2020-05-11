@@ -36,9 +36,9 @@ Simply click on provided each chapter google colab link to run a test codes.
 * Lunch jupyter notebook and run codes
 
 This is a help video which show above instruction. 
-[![Open In Colab](ReadMe/inst2.jpg)](https://www.aparat.com/v/Pa7Ap)
+[![](ReadMe/inst2.jpg)](https://www.aparat.com/v/Pa7Ap)
 Run a jupyter file
-[![Open In Colab](ReadMe/inst2.jpg)](https://www.aparat.com/v/zK8Y2)
+[![](ReadMe/inst2.jpg)](https://www.aparat.com/v/zK8Y2)
 
 ## Team
 
