@@ -1,6 +1,6 @@
 # MMedia
 Multimedia Course
-#Run
+# Run
 ## Running on google colab
 The simplest way to run these python scripts is google colab.
 
@@ -39,3 +39,9 @@ This is a help video which show above instruction.
 [![Open In Colab](ReadMe/inst2.jpg)](https://www.aparat.com/v/Pa7Ap)
 Run a jupyter file
 [![Open In Colab](ReadMe/inst2.jpg)](https://www.aparat.com/v/zK8Y2)
+
+## Team
+
+- [Hossein Motamednia](hossein.mo.re@gmail.com)
+- [Said Rahmani](rahmanisaid73@gmail.com)
+- [Poria Cheraaghi](p.cheraaghi@gmail.com)
